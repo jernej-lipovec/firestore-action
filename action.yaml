@@ -2,4 +2,4 @@ name: "GitHub Action for Firestore emulator"
 description: "Runs firebase-tools emulator for a Firestore."
 runs:
   using: "docker"
-  image: "docker://velith/firestore-action:1.4"
+  image: "docker://jernejlipovec/firestore-action:1.4"
